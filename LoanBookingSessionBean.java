@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.printer; 
 import java.io.collection; 
 import java.io.pandas;
-import java.io.ioprinter;
+// import java.io.ioprinter;
 import java.io.outputprinter;
 import java.io.inputprinter;
 public class SpiralPatternExample2
